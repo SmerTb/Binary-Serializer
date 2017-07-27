@@ -1,0 +1,15 @@
+c:\users\timka654\documents\visual studio 2015\Projects\BinarySerializer_v3\BinarySerializer_v3\bin\Debug\BinarySerializer_v3.dll
+c:\users\timka654\documents\visual studio 2015\Projects\BinarySerializer_v3\BinarySerializer_v3\bin\Debug\BinarySerializer_v3.pdb
+c:\users\timka654\documents\visual studio 2015\Projects\BinarySerializer_v3\BinarySerializer_v3\obj\Debug\BinarySerializer_v3.dll
+c:\users\timka654\documents\visual studio 2015\Projects\BinarySerializer_v3\BinarySerializer_v3\obj\Debug\BinarySerializer_v3.pdb
+C:\Users\Timka654\documents\visual studio 2015\Projects\BinarySerializer_v3\BinarySerializer_v3\obj\Debug\BinarySerializer_v3.csprojResolveAssemblyReference.cache
+J:\Projects\Visual_C#\BinarySerializer_v3\BinarySerializer_v3\bin\Debug\BinarySerializer_v3.dll
+J:\Projects\Visual_C#\BinarySerializer_v3\BinarySerializer_v3\bin\Debug\BinarySerializer_v3.pdb
+J:\Projects\Visual_C#\BinarySerializer_v3\BinarySerializer_v3\obj\Debug\BinarySerializer_v3.dll
+J:\Projects\Visual_C#\BinarySerializer_v3\BinarySerializer_v3\obj\Debug\BinarySerializer_v3.pdb
+J:\Projects\Visual_C#\BinarySerializer_v3\BinarySerializer_v3\obj\Debug\BinarySerializer_v3.csprojResolveAssemblyReference.cache
+D:\Projects\Visual_C#\BinarySerializer_v3\BinarySerializer_v3\bin\Debug\BinarySerializer_v3.dll
+D:\Projects\Visual_C#\BinarySerializer_v3\BinarySerializer_v3\bin\Debug\BinarySerializer_v3.pdb
+D:\Projects\Visual_C#\BinarySerializer_v3\BinarySerializer_v3\obj\Debug\BinarySerializer_v3.dll
+D:\Projects\Visual_C#\BinarySerializer_v3\BinarySerializer_v3\obj\Debug\BinarySerializer_v3.pdb
+D:\Projects\Visual_C#\BinarySerializer_v3\BinarySerializer_v3\obj\Debug\BinarySerializer_v3.csprojResolveAssemblyReference.cache

@@ -1,0 +1,24 @@
+c:\users\timka654\documents\visual studio 2015\Projects\BinarySerializer_v3\TestProject\bin\Debug\TestProject.exe.config
+c:\users\timka654\documents\visual studio 2015\Projects\BinarySerializer_v3\TestProject\bin\Debug\TestProject.exe
+c:\users\timka654\documents\visual studio 2015\Projects\BinarySerializer_v3\TestProject\bin\Debug\TestProject.pdb
+c:\users\timka654\documents\visual studio 2015\Projects\BinarySerializer_v3\TestProject\bin\Debug\BinarySerializer_v3.dll
+c:\users\timka654\documents\visual studio 2015\Projects\BinarySerializer_v3\TestProject\bin\Debug\BinarySerializer_v3.pdb
+c:\users\timka654\documents\visual studio 2015\Projects\BinarySerializer_v3\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+c:\users\timka654\documents\visual studio 2015\Projects\BinarySerializer_v3\TestProject\obj\Debug\TestProject.exe
+c:\users\timka654\documents\visual studio 2015\Projects\BinarySerializer_v3\TestProject\obj\Debug\TestProject.pdb
+J:\Projects\Visual_C#\BinarySerializer_v3\TestProject\bin\Debug\TestProject.exe.config
+J:\Projects\Visual_C#\BinarySerializer_v3\TestProject\obj\Debug\TestProject.exe
+J:\Projects\Visual_C#\BinarySerializer_v3\TestProject\obj\Debug\TestProject.pdb
+J:\Projects\Visual_C#\BinarySerializer_v3\TestProject\bin\Debug\TestProject.exe
+J:\Projects\Visual_C#\BinarySerializer_v3\TestProject\bin\Debug\TestProject.pdb
+J:\Projects\Visual_C#\BinarySerializer_v3\TestProject\bin\Debug\BinarySerializer_v3.dll
+J:\Projects\Visual_C#\BinarySerializer_v3\TestProject\bin\Debug\BinarySerializer_v3.pdb
+J:\Projects\Visual_C#\BinarySerializer_v3\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+D:\Projects\Visual_C#\BinarySerializer_v3\TestProject\bin\Debug\TestProject.exe.config
+D:\Projects\Visual_C#\BinarySerializer_v3\TestProject\obj\Debug\TestProject.exe
+D:\Projects\Visual_C#\BinarySerializer_v3\TestProject\obj\Debug\TestProject.pdb
+D:\Projects\Visual_C#\BinarySerializer_v3\TestProject\bin\Debug\TestProject.exe
+D:\Projects\Visual_C#\BinarySerializer_v3\TestProject\bin\Debug\TestProject.pdb
+D:\Projects\Visual_C#\BinarySerializer_v3\TestProject\bin\Debug\BinarySerializer_v3.dll
+D:\Projects\Visual_C#\BinarySerializer_v3\TestProject\bin\Debug\BinarySerializer_v3.pdb
+D:\Projects\Visual_C#\BinarySerializer_v3\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
